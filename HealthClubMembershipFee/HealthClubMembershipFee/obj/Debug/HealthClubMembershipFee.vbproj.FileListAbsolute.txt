@@ -1,0 +1,11 @@
+C:\Users\rahmik\Desktop\VB\HealthClubMembershipFee\HealthClubMembershipFee\bin\Debug\HealthClubMembershipFee.exe.config
+C:\Users\rahmik\Desktop\VB\HealthClubMembershipFee\HealthClubMembershipFee\bin\Debug\HealthClubMembershipFee.exe
+C:\Users\rahmik\Desktop\VB\HealthClubMembershipFee\HealthClubMembershipFee\bin\Debug\HealthClubMembershipFee.pdb
+C:\Users\rahmik\Desktop\VB\HealthClubMembershipFee\HealthClubMembershipFee\bin\Debug\HealthClubMembershipFee.xml
+C:\Users\rahmik\Desktop\VB\HealthClubMembershipFee\HealthClubMembershipFee\obj\Debug\HealthClubMembershipFee.MainForm.resources
+C:\Users\rahmik\Desktop\VB\HealthClubMembershipFee\HealthClubMembershipFee\obj\Debug\HealthClubMembershipFee.Resources.resources
+C:\Users\rahmik\Desktop\VB\HealthClubMembershipFee\HealthClubMembershipFee\obj\Debug\HealthClubMembershipFee.vbproj.GenerateResource.Cache
+C:\Users\rahmik\Desktop\VB\HealthClubMembershipFee\HealthClubMembershipFee\obj\Debug\HealthClubMembershipFee.exe
+C:\Users\rahmik\Desktop\VB\HealthClubMembershipFee\HealthClubMembershipFee\obj\Debug\HealthClubMembershipFee.xml
+C:\Users\rahmik\Desktop\VB\HealthClubMembershipFee\HealthClubMembershipFee\obj\Debug\HealthClubMembershipFee.pdb
+C:\Users\rahmik\Desktop\VB\HealthClubMembershipFee\HealthClubMembershipFee\obj\Debug\HealthClubMembershipFee.vbprojResolveAssemblyReference.cache
